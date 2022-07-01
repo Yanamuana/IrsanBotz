@@ -4,17 +4,17 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ⁩⁩'
-global.numberowner = '+855 38 786 9292'
+global.nameowner = 'Abrul Gansあ⁩⁩'
+global.numberowner = '+6285783062411'
 global.instagram = 'https://instagram.com/'
 global.github = 'https://github.com/'
-global.dana = '089691183687'
-global.pulsa = '089691183687'
-global.gopay = 'https://wa.me/p/5189619011129791/855387869292'
+global.dana = '085709344807'
+global.pulsa = '085709344807'
+global.gopay = 'https://wa.me/p/5189619011129791/6285709344807'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝐒𝐀𝐍⁩-Md'
-global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fpscqIiuAn'
+global.namebot = 'Yana-Md'
+global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fpsqIiuAn'
 global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ganti jadi fo
 global.fotonya2 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'SAN-MD'
+global.wm = 'YANA-MD'
 global.watermark = wm
-global.wm2 = '                     「 SAN-MD あ⁩ 」'
-global.wm3 = '⫹⫺ SAN-MD'
+global.wm2 = '                     「 YANA-MD あ⁩ 」'
+global.wm3 = '⫹⫺ YANA-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
