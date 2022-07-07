@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['+62857 8306 2411'] 
+global.owner = ['+62822 9696 2780'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Abrul Gansあ⁩⁩'
-global.numberowner = '+6285783062411'
+global.nameowner = 'junar.osfficialあ⁩⁩'
+global.numberowner = '+6282296962780'
 global.instagram = 'https://instagram.com/'
 global.github = 'https://github.com/'
-global.dana = '085709344807'
-global.pulsa = '085709344807'
-global.gopay = 'https://wa.me/p/5189619011129791/6285709344807'
+global.dana = '0000'
+global.pulsa = '0000'
+global.gopay = 'https://wa.me/p/5189619011129791/000'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Yana-Md'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ganti jadi fo
 global.fotonya2 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'YANA-MD'
+global.wm = 'Desta-MD'
 global.watermark = wm
-global.wm2 = '                     「 YANA-MD あ⁩ 」'
-global.wm3 = '⫹⫺ YANA-MD'
+global.wm2 = '                     「 DESTA-MD あ⁩ 」'
+global.wm3 = '⫹⫺ DESTA-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
