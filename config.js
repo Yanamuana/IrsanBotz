@@ -13,9 +13,9 @@ global.pulsa = '0000'
 global.gopay = 'https://wa.me/p/5189619011129791/000'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yana-Md'
-global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fpsqIiuAn'
-global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Desta-Md'
+global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fsqIiuAn'
+global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
